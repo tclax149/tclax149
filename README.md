@@ -13,7 +13,7 @@
     - 👨🏽‍💻 Code (Html, Css, Javascript)
     
 - 🌱 I’m currently learning how to become a better Javascript developer!
-    - 
+    
 - 💬 Ask me about ...
 - 📫 How to reach me: 📧 airclaxton@gmail.com || Socials: @tclax149  
 - 😄 Pronouns: Him
