@@ -15,15 +15,11 @@
     -  Mobile applications 📱
     -  Web development 👨🏽‍💻 
     -  Web apps 💻
-    -  Web servers 💾
-    -  Game development 🤖
-
 
 - 🔭 Looking to become an "expert" Web Developer 🤓 
 
     - 🎨 No Code (WordPress, Shopfiy, Wix)
     - 👨🏽‍💻 Code (Html, Css, Javascript) 
-
 
 - 💬 Ask me about my unconventional Tech Journey ! 
     -  Exploring being an UX/UI Designer 🎨
