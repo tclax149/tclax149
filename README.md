@@ -15,9 +15,6 @@
     -  Mobile applications 📱
     -  Web development 👨🏽‍💻 
     -  Web apps 💻
-
-- 🔭 Looking to become an "expert" Web Developer 🤓 
-
     - 🎨 No Code (WordPress, Shopfiy, Wix)
     - 👨🏽‍💻 Code (Html, Css, Javascript) 
 
@@ -31,9 +28,8 @@
       
 - 📫 How to reach me: 📧 airclaxton@gmail.com || Socials: @tclax149  
 
-- 😄 Pronouns: Him
 
 - ⚡ Fun fact 1: Outside of Tech i'm really into martial arts! I fancy myself a knock off iron man 🤣
-- ⚡ Fun fact 2: I actually enjoy all the hollywood tech movies 👀 and emoji's 💚
+- ⚡ Fun fact 2: I actually enjoy all the hollywood tech movies 👀.
   
     
