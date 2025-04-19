@@ -19,14 +19,12 @@
     - 👨🏽‍💻 Code (Html, Css, Javascript) 
 
 - 💬 Ask me about my unconventional Tech Journey ! 
-    -  Exploring being an UX/UI Designer 🎨
-    -  Exploring being a Data Analyst 🤖
-    -  Exploring being Web Developer  👨🏽‍💻 
-    -  Exploring being a FrontEnd Engineer ⏳
+    -  Exploring being an UX/UI Designer 
+    -  Exploring FrontEnd Engineering ⏳
     -  Excploring being a BackEnd Engineer ⏳
 
       
-- 📫 How to reach me: 📧 airclaxton@gmail.com || Socials: @tclax149  
+- 📫 How to reach me: 📧 airclaxton@gmail.com || Socials:   
 
 
 - ⚡ Fun fact 1: Outside of Tech i'm really into martial arts! I fancy myself a knock off iron man 🤣
